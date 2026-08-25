@@ -4,6 +4,15 @@ PassOP is a fast, secure, and user-friendly open-source password manager designe
 
 ---
 
+### here is a demo video for y'll
+
+
+https://github.com/user-attachments/assets/87803ef3-333d-4cb7-9330-59452b51fbc8
+
+
+
+
+
 ## 🛠️ The Tech Stack
 
 This project is built using a modern, lightweight frontend development setup:
