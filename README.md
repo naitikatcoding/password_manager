@@ -1,4 +1,4 @@
-# 🔐 <PassOP/>
+# 🔐 "<PassOP/>"
 
 <p align="center">
   <img src="https://img.shields.io/badge/PassOP-Password%20Manager-0D1117?style=for-the-badge&logo=lock&logoColor=white" alt="PassOP">
