@@ -16,7 +16,7 @@ const EMPTY_FORM = {
 };
 
 const toastOptions = {
-  position: "top-right",
+  position: "bottom-right",
   autoClose: 3000,
   theme: "light",
   transition: Bounce,
